@@ -1,3 +1,3 @@
-# 11Am-8-July
+# 11Am-8JULY
 this is the first git hub
 khk
